@@ -1,9 +1,7 @@
 # JDBC Project
 
-
 ## Description
 This JDBC Project demonstrates how to interact with a database using Java Database Connectivity (JDBC). It serves as a fundamental reference for developers looking to integrate Java applications with various databases.
-
 
 ## Setup Instructions
 1. **Prerequisites**: Make sure you have the following installed:
