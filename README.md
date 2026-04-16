@@ -8,15 +8,11 @@ This JDBC Project demonstrates how to interact with a database using Java Databa
    - Java Development Kit (JDK) 8 or higher
    - An IDE such as Eclipse or IntelliJ IDEA
    - MySQL or any other database server (make sure to have the JDBC driver for your database)
-
-
 2. **Clone the repository**:
    ```bash
    git clone https://github.com/raza-zeeshan/JDBC-project.git
    cd JDBC-project
    ```
-
-
 3. **Configure Database Connection**:
    - Locate the `config.properties` file in the project root and update it with your database URL, username, and password.
 
