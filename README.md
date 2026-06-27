@@ -66,6 +66,7 @@ JDBC-project/
    dbHandler.executeUpdate(query, "John Doe", "john@example.com");
    ```
 
+   
 3. **Fetching Data**:
    ```java
    ResultSet resultSet = dbHandler.executeQuery("SELECT * FROM users;");
