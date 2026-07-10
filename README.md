@@ -65,7 +65,6 @@ JDBC-project/
    String query = "INSERT INTO users (name, email) VALUES (?, ?);";
    dbHandler.executeUpdate(query, "John Doe", "john@example.com");
    ```
-
    
 3. **Fetching Data**:
    ```java
